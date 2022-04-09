@@ -61,3 +61,27 @@ GIT HUB COMMANDS
          then in that case we need to write '/logs.txt' in the '.gitignore'.
 
      -> Now if we want to ignore a folder we need to write '<foldername>/' inside the '.gitignore'
+
+22. BRANCH IN GIT(By default we are in the master branch)
+
+    -> Command to view the number of branches available
+        git branch
+
+    -> Command to create a Branch
+        git branch <Branch_Name>
+    
+    -> Command to enter into a particular branch
+        git checkout <Branch_Name>
+
+    -> Command to create a branch and enter that branch simultaneously
+        git checkout -b <Branch_Name>
+
+    -> Command to merge a particular branch with the master-branch
+        git merge <Branch_name>
+        [Note that we need to be in the master-branch in order to merge any other branch with the master-branch]
+
+    -> Command to delete a particular branch
+        git branch -d <Branch_Name>         (If the branch contains unmerged changes, Git will refuse to delete it )
+
+       In such case we will have to force the deletion by replacing the -d parameter with an uppercase D:
+        git branch -D <Branch_Name>
