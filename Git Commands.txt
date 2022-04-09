@@ -1,0 +1,35 @@
+GIT HUB COMMANDS
+
+1. git config --global user.name UtkarshSinghChouhan  	  (To set the user name)
+
+2. git config --global user.email uscutkarsh9@gmail.com   (To set the user email)
+
+3. git config --global user.name   			(To check the user name)
+
+4. git config --global user.email   			(To check the user email)
+
+5. git init  						(To initialize or create an empty repository)
+
+6. ls -lart  						(To see all folders including the hidden folders)
+
+7. git status						(Tells U the status of the file weather untracked, unmodifies, modified or staged)
+
+8. git add file_name_with_extension			(To move untracked file into the staging area)
+
+9. touch file_name_with_extension			(To create any file)
+
+10 git add -A 						(To add multiple file into the staging area)
+
+11. git commit                      (To start the tracking of our project initially we need to commit using this command)
+
+11. git commit -m "Any_message"				(To commit multiple files at once i.e. to move them to the unmodified status)
+
+12. git checkout file_name				(To match with the previous commit meaning undo the changes on a single file )
+
+13. git checkout -f					(To undo changes on the multiple file)
+
+14. git log						(Show us all the commits we have done till this command)
+
+15. git log -p -n (where, n is any integer)             (Show the number of the previous commits as specified by the value of 'n')
+
+16.
