@@ -28,7 +28,7 @@ GIT HUB COMMANDS
 
 13. git checkout -f					(To undo changes on the multiple file)
 
-14. git log		and type ':wq' to save and exit				(Show us all the commits we have done till this command)
+14. git log		and type ':q' to exit				(Show us all the commits we have done till this command)
 
 15. git log -p -n (where, n is any integer)   and press ':q' to exit          (Show the number of the previous commits as specified by the value of 'n')
 
