@@ -30,6 +30,6 @@ GIT HUB COMMANDS
 
 14. git log		and type ':wq' to save and exit				(Show us all the commits we have done till this command)
 
-15. git log -p -n (where, n is any integer)             (Show the number of the previous commits as specified by the value of 'n')
+15. git log -p -n (where, n is any integer)   and press ':q' to exit          (Show the number of the previous commits as specified by the value of 'n')
 
 16.fidifjidjf
