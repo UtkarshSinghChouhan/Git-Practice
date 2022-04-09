@@ -34,4 +34,4 @@ GIT HUB COMMANDS
 
 16. git diff            (this command compares my working directory with the staging area)
 
-175.
+17. git diff --staged   (this command compares staging area with the last commit)
