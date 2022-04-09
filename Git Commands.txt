@@ -43,3 +43,13 @@ GIT HUB COMMANDS
 19. git -rm                     (this command deletes the file as a result it gets removed from the staging area)
 
 20. git rm --cached  <file_name_with_extension>          (this command only removes the file from the staging area, as a result it becomes an 'untracked_file' but we still have the file copy in our hardisk)
+
+21. IN ORDER TO IGNORE A FILE FROM ADDING INTO YOU GIT repository
+
+      -> First we need to make a '.gitignore' file using 'touch .gitignore'
+
+      ->  Now suppose we want to ignore 'logs.txt' file from being added into the repository,
+          it doesn't matter weather the file is inside a folder(every exsistance of the file will be ignored)
+
+      -> For this we simply need to add or file into the '.gitignore' file and thats it.
+
