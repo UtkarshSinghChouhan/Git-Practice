@@ -60,3 +60,4 @@ GIT HUB COMMANDS
          inside the '.gitignore' and all the rest instances or copies of this file will be added into the git repository,
          then in that case we need to write '/logs.txt' in the '.gitignore'.
 
+     -> Now if we want to ignore a folder we need to write '<foldername>/' inside the '.gitignore'
