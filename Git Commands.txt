@@ -10,6 +10,8 @@ GIT HUB COMMANDS
 
 5. git init  						(To initialize or create an empty repository)
 
+6. ls                               (To see all folders excluding the hidden folders)
+
 6. ls -lart  						(To see all folders including the hidden folders)
 
 7. git status						(Tells U the status of the file weather untracked, unmodifies, modified or staged)
