@@ -32,4 +32,6 @@ GIT HUB COMMANDS
 
 15. git log -p -n (where, n is any integer)   and press ':q' to exit          (Show the number of the previous commits as specified by the value of 'n')
 
-16.fidifjidjf
+16. git diff            (this command compares my working directory with the staging area)
+
+175.
