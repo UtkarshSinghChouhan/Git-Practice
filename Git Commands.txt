@@ -36,4 +36,4 @@ GIT HUB COMMANDS
 
 17. git diff --staged   (this command compares staging area with the last commit)
 
-18.
+18. git commit -a -m "Any_message"          (This command directly commit the changed made on the file without have to 'stage' the changed first )
