@@ -32,4 +32,4 @@ GIT HUB COMMANDS
 
 15. git log -p -n (where, n is any integer)             (Show the number of the previous commits as specified by the value of 'n')
 
-16.
+16.fidifjidjf
