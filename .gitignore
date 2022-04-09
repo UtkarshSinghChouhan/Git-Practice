@@ -1,1 +1,3 @@
 myLogs.txt
+*.log
+/file.txt
