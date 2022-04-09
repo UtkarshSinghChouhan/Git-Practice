@@ -40,4 +40,6 @@ GIT HUB COMMANDS
 
 18. git commit -a -m "Any_message"          (This command directly commit the changed made on the file without have to 'stage' the changed first )
 
-19. 
+19. git -rm                     (this command deletes the file as a result it gets removed from the staging area)
+
+20. git rm --cached  <file_name_with_extension>          (this command only removes the file from the staging area, as a result it becomes an 'untracked_file' but we still have the file copy in our hardisk)
