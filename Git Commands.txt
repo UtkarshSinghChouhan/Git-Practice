@@ -100,3 +100,9 @@ Heading : GIT HUB COMMANDS
 24. PULL COMMAND
     git pull origin master(Branch_Name)
         (this command pull all the changes made through the github)
+
+25. In order to create new repository
+     git remote add origin <SSH Key>
+
+26. In order to clone a a repository
+    git clone <SSH>
