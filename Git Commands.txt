@@ -88,10 +88,13 @@ Heading : GIT HUB COMMANDS
         [Note that we need to be in the master-branch in order to merge any other branch with the master-branch]
 
     -> Command to delete a particular branch
-        git branch -d <Branch_Name>         (If the branch contains unmerged changes, Git will refuse to delete it )
+        git branch -d <Branch_Name>         (this command deletes the branch only from the local hard-disk and not from the github. Also If the branch contains unmerged changes, Git will refuse to delete it )
 
        In such case we will have to force the deletion by replacing the -d parameter with an uppercase D:
         git branch -D <Branch_Name>
+
+       To delete the file from the remote location (i.e. GitHub)
+        git push origin --delete <Branch_Name>
 
 23. PUSH COMMAND
     git push -u origin master(Branch_Name )
