@@ -21,9 +21,9 @@ Heading : GIT HUB COMMANDS
 
 7. git status						(Tells U the status of the file weather untracked, unmodifies, modified or staged)
 
-8. git add file_name_with_extension			(To move untracked file into the staging area)
+8. git add <file_name_with_extension>			(To move untracked file into the staging area)
 
-9. touch file_name_with_extension			(To create any file)
+9. touch <file_name_with_extension>			(To create any file)
 
 10. git add -A 						(To add multiple file into the staging area)
 
@@ -94,9 +94,9 @@ Heading : GIT HUB COMMANDS
         git branch -D <Branch_Name>
 
 23. PUSH COMMAND
-    git push -u origin <Branch_Name>
+    git push -u origin master(Branch_Name )
         (Here 'origin' refers to the gitHub server where we want to push the master or any other branch) 
 
 24. PULL COMMAND
-    git pull origin master
+    git pull origin master(Branch_Name)
         (this command pull all the changes made through the github i.e. git GUI only)
