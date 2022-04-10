@@ -6,6 +6,9 @@ GIT HUB COMMANDS
 
 2. git config --global user.email uscutkarsh9@gmail.com   (To set the user email)
 
+    [Note: We have used '--global' parameter, suppose if we have not used this parameter then the name and email will be valid for this repository only
+           but now the name and email will be valid for all the repositories.]
+
 3. git config --global user.name   			(To check the user name)
 
 4. git config --global user.email   			(To check the user email)
