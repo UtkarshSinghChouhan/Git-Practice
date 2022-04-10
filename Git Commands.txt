@@ -1,5 +1,7 @@
 GIT HUB COMMANDS
 
+0. git --version                (tellus us the version of the Git that You have installed)
+
 1. git config --global user.name UtkarshSinghChouhan  	  (To set the user name)
 
 2. git config --global user.email uscutkarsh9@gmail.com   (To set the user email)
