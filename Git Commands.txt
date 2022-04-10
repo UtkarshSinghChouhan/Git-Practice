@@ -99,4 +99,4 @@ Heading : GIT HUB COMMANDS
 
 24. PULL COMMAND
     git pull origin master
-        (this command pull all the changes made through the github and git command line)
+        (this command pull all the changes made through the github i.e. git GUI only)
