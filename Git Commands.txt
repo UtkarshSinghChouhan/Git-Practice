@@ -22,7 +22,9 @@ GIT HUB COMMANDS
 
 9. touch file_name_with_extension			(To create any file)
 
-10 git add -A 						(To add multiple file into the staging area)
+10. git add -A 						(To add multiple file into the staging area)
+
+10. git add .                        (this command add all files to the staging area)
 
 11. git commit                      (To start the tracking of our project initially we need to commit using this command)
 
