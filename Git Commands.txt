@@ -93,6 +93,10 @@ Heading : GIT HUB COMMANDS
        In such case we will have to force the deletion by replacing the -d parameter with an uppercase D:
         git branch -D <Branch_Name>
 
-23. PUSH COMMANDS
+23. PUSH COMMAND
     git push -u origin <Branch_Name>
         (Here 'origin' refers to the gitHub server where we want to push the master or any other branch) 
+
+24. PULL COMMAND
+    git pull origin master
+        (this command pull all the changes made through the github and git command line)
