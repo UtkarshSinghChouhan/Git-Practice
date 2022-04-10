@@ -1,4 +1,4 @@
-GIT HUB COMMANDS
+Heading : GIT HUB COMMANDS
 
 0. git --version                (tellus us the version of the Git that You have installed)
 
