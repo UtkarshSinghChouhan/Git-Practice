@@ -33,6 +33,7 @@ Heading : GIT HUB COMMANDS
 
 11. git commit -m "Any_message"				(To commit multiple files at once i.e. to move them to the unmodified status)
 
+END...
 12. git checkout file_name				(To match with the previous commit meaning undo the changes on a single file )
 
 13. git checkout -f					(To undo changes on the multiple file)
